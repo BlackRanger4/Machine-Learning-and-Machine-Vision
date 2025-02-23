@@ -17,16 +17,11 @@ pip install numpy opencv-python matplotlib
 ```
 
 ## Usage
-1. Clone the repository:
-   ```bash
-   git clone <repo_url>
-   cd <repo_name>
-   ```
-2. Open the Jupyter Notebook:
+1. Open the Jupyter Notebook:
    ```bash
    jupyter notebook MLV1.ipynb
    ```
-3. Follow the instructions in the notebook to apply PCA on facial images.
+2. Follow the instructions in the notebook to apply PCA on facial images.
 
 ## Features
 - Loads and preprocesses facial images
